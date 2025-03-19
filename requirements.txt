@@ -1,6 +1,6 @@
 torch>=2.1.1
 torchvision>=0.16.1
-diffusers==0.31.0
+diffusers
 transformers==4.46.3
 peft
 numpy>=1.26.2
